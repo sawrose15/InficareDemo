@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inficare</string>
+
+    <string name="cancel_login">Login Cancelled</string>
+    <string name="error_login">Error while login</string>
+    <string name="logout">Logout</string>
+    <string name="firebase_error_login">Error in firebase</string>
+
+    <string name="facebook_app_id">1006975882790295</string>
+</resources>
